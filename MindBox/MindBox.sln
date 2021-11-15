@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MindBox", "Square\MindBox.csproj", "{02ADB4D8-B7DC-46DB-89BC-CCB16A710D7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfFigure", "MindBoxOOP\SquareOfFigure.csproj", "{A7953B6E-EEEA-43F2-9D57-B220039FA684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfFigure", "SquareOfFigure\SquareOfFigure.csproj", "{A7953B6E-EEEA-43F2-9D57-B220039FA684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
