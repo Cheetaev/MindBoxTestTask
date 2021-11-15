@@ -1,7 +1,6 @@
 C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\bin\Debug\netcoreapp3.1\MindBox.deps.json
 C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\bin\Debug\netcoreapp3.1\MindBox.dll
 C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\bin\Debug\netcoreapp3.1\MindBox.pdb
-C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\MindBox.csproj.AssemblyReference.cache
 C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\MindBox.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\MindBox.AssemblyInfoInputs.cache
 C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\MindBox.AssemblyInfo.cs

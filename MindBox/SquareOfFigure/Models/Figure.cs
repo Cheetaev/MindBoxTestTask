@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SquareOfFigure
 {
-    class Figure : IFigure
+    public class Figure : IFigure
     {
         private readonly IFigure figure;
 

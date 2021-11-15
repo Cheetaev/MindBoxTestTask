@@ -1,0 +1,9 @@
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\bin\Debug\netcoreapp3.1\SquareOfFigure.deps.json
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\bin\Debug\netcoreapp3.1\SquareOfFigure.dll
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\bin\Debug\netcoreapp3.1\SquareOfFigure.pdb
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\obj\Debug\netcoreapp3.1\SquareOfFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\obj\Debug\netcoreapp3.1\SquareOfFigure.AssemblyInfoInputs.cache
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\obj\Debug\netcoreapp3.1\SquareOfFigure.AssemblyInfo.cs
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\obj\Debug\netcoreapp3.1\SquareOfFigure.csproj.CoreCompileInputs.cache
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\obj\Debug\netcoreapp3.1\SquareOfFigure.dll
+C:\Users\Kit\source\MindBoxTestTask\MindBox\SquareOfFigure\obj\Debug\netcoreapp3.1\SquareOfFigure.pdb

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SquareOfFigure
 {
-    class Triangle : IFigure
+    public class Triangle : IFigure
     {
 
         private readonly double _sideA, _sideB, _sideC;

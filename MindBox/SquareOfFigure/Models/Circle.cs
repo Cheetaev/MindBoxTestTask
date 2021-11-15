@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SquareOfFigure
 {
-    class Circle : IFigure
+    public class Circle : IFigure
     {
 
         private readonly double _radius;
