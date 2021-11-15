@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WI+uaXjtQPcGdg5v+y57D2jT+kMyWEHrMo7hTkYpLSv4dJpWxh8iCUY3aoHGoJn9A2+RTUMALV5Ne1MKDobX6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kit\\source\\MindBoxTestTask\\MindBox\\MindBoxOOP\\SquareOfFigure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kit\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

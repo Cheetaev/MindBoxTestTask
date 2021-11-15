@@ -1,0 +1,9 @@
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\bin\Debug\netcoreapp3.1\Square.deps.json
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\bin\Debug\netcoreapp3.1\Square.dll
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\bin\Debug\netcoreapp3.1\Square.pdb
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfoInputs.cache
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfo.cs
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\Square.csproj.CoreCompileInputs.cache
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\Square.dll
+C:\Users\Kit\source\MindBoxTestTask\MindBox\Square\obj\Debug\netcoreapp3.1\Square.pdb

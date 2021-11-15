@@ -11,7 +11,7 @@ namespace MindBox
         /// </summary>
         /// <param name="values"></param>
         /// <returns></returns>
-        public static double Get(params double[] values) // Сan be done with different static methods 
+        public static double Get(params double[] values)
         {
 
             #region null parameters
@@ -32,14 +32,16 @@ namespace MindBox
 
             if (values.Length == 3)
             {
+                if (values[0] <= 0 || values[1] <= 0 || values[2] <= 0)
+                    throw new Exception("Triangle does not exist, side cannot be 0");
                 if (!((values[0] + values[1] > values[2]) 
                     && (values[0] + values[2] > values[1]) 
                     && (values[1] + values[2] > values[0])))
-                    throw new Exception("Triangle does not exist!");
+                    throw new Exception("Triangle does not exist");
+                
+                double p = (values.Sum()) / 2; 
 
-                double p = (values.Sum()) / 2; //semi-perimeter
-
-                var nums = new List<double>(); //list for just because
+                var nums = new List<double>();
                 foreach (var value in values)
                 {
                     nums.Add(Math.Pow(value, 2));
